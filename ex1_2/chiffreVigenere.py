@@ -111,6 +111,6 @@ def jeuEssais():
 
 if __name__ == "__main__":
     # main() à décommenter pour choisir le texte et la clé à chiffrer ou déchiffrer
-    #main()
+    main()
     # jeux d'essais pour tester les algorithmes
     jeuEssais()
